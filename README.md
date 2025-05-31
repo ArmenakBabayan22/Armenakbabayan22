@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying Python, physics, and mathematics, with a strong interest in both natural sciences and computer science. My goal is to become a robotics engineer, and I am actively working towards this by building a solid foundation in programming and engineering principles. I am especially interested to learn machine learning and C++, as I believe these areas are essential for the future of robotics and intelligent systems. I'm passionate about solving real-world problems using technology and am always looking for new challenges and opportunities to grow.
+I am currently studying Python, physics, and mathematics, with a strong interest in both natural sciences and computer science. My goal is to become a robotics engineer, and I am actively working towards this by building a solid foundation in programming and engineering principles.
 
 
 ## 🌐 Socials:

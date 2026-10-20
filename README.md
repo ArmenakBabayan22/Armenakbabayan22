@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am currently studying Python, physics, and mathematics, with a strong interest in both natural sciences and computer science. My goal is to become a robotics engineer, and I am actively working towards this by building a solid foundation in programming and engineering principles.
+I am a 17-year-old Applied Physics, Hardware AI, and Robotics developer driven by intense intellectual curiosity and hands-on experimentation. While traditional school systems focus on standardized tests, my education happens in my self-built basement laboratory, where deep tech concepts come to life.
+My work spans acoustics, embedded systems, computer vision, and aerospace engineering. I designed and built a 64-transducer Ultrasonic Levitator integrated with YOLO-based computer vision for gesture-controlled object manipulation, earning 1st Place at the AESA Engineering Olympiad 2026 and the Armenian Science Festival 2026.
+Beyond individual research, I am deeply committed to education and leadership. For over a year, I have served as an Instructor at the Armenian Drone Federation, teaching FPV drone theory, assembly, and piloting. I design curricula and deliver lectures to 30+ students, including university-level courses at Plekhanov University. From engineering custom 8-inch 6S drones in my lab to operating UAVs under high-pressure simulated environments, I thrive where hardware meets complex physical reality.
+I bridge the gap between abstract science and physical engineering—whether it is training custom neural networks or studying bio-mechanics and comparative anatomy. I am looking to bring this raw passion for building, teaching, and breakthrough engineering to a world-class university program.
+
 
 
 ## 🌐 Socials:

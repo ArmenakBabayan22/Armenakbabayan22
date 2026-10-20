@@ -1,8 +1,16 @@
 # 💫 About Me:
-I am a 17-year-old Applied Physics, Hardware AI, and Robotics developer driven by intense intellectual curiosity and hands-on experimentation. While traditional school systems focus on standardized tests, my education happens in my self-built basement laboratory, where deep tech concepts come to life.
-My work spans acoustics, embedded systems, computer vision, and aerospace engineering. I designed and built a 64-transducer Ultrasonic Levitator integrated with YOLO-based computer vision for gesture-controlled object manipulation, earning 1st Place at the AESA Engineering Olympiad 2026 and the Armenian Science Festival 2026.
-Beyond individual research, I am deeply committed to education and leadership. For over a year, I have served as an Instructor at the Armenian Drone Federation, teaching FPV drone theory, assembly, and piloting. I design curricula and deliver lectures to 30+ students, including university-level courses at Plekhanov University. From engineering custom 8-inch 6S drones in my lab to operating UAVs under high-pressure simulated environments, I thrive where hardware meets complex physical reality.
-I bridge the gap between abstract science and physical engineering—whether it is training custom neural networks or studying bio-mechanics and comparative anatomy. I am looking to bring this raw passion for building, teaching, and breakthrough engineering to a world-class university program.
+I am a 17-year-old Physical AI, Robotics, and Bio-Engineering developer operating where machine learning meets physical and biological systems. Based in Yerevan, I build my projects between my self-built basement bio-lab (housing 9 animal species) and advanced tracks at the Armenian Engineering City.
+Key Achievements & Awards (2025–2026):
+• 1st Place – 24th Annual AESA Science Olympiad, USA (Senior Engineering).
+• 1st Degree Diploma – Armenian All-School Science Festival (Endorsed by the President of the National Academy of Sciences).
+• 2nd Place – 4th Gagik Grigoryan All-School Science Conference (Ayb School).
+• Core Projects: Built a 64-transducer Ultrasonic Levitator with YOLO gesture control; researched ultrasonic wave impacts on plant biology.
+Leadership & Technical Expertise:
+• UAV Instructor: 1+ years teaching FPV drone theory, custom 6S assembly, and piloting to 30+ students, including lectures at Plekhanov University.
+• Competitive Pilot: Raced in MultiGP FPV Mayor's Cup 2026 and ArmDrone Western Asia Championship.
+• Certified ML Developer: Officially certified in Advanced Python & ML/AI by SMART CODE.
+• Bio-Research: Deeply versed in comparative anatomy, handling organic tissue, and animal behavior.
+I bypass traditional standardized metrics through raw execution power, elite hardware hacking, and cross-disciplinary science. Looking to bring this drive to a top-tier global university.
 
 
 
